@@ -1,0 +1,7 @@
+Read the problem
+Using MySQL for the problem #Extra Credit
+Input the test data in MySQL by hand
+Defined Structure of input file by hand, this is wrong, should have dynamic number of columns #rectify
+#Rectified - The table can have arbitrary number of columns
+To preprocess the data, read files, process line by line(bin accordingly) ,write line by line.
+
